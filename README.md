@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a full-stack software engineer with a passion for building web applications. I have a strong foundation in both front-end and back-end technologies, with experience in building full-stack web applications. I am ontinuously learning and staying updated with the latest technologies and best practices in the field. I am currently working on adding features to projects that are currently pinned. 
+I am a full-stack software engineer with a passion for building web applications. I have a strong foundation in both front-end and back-end technologies, with experience in building full-stack web applications. I am continuously learning and staying updated with the latest technologies and best practices in the field. I am currently working on adding features to projects that are currently pinned. 
 
 📫 **Reach Me:**
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tyler-marks-9b189987/))
-- Portfolio: [Your Portfolio Website]([https://www.yourportfolio.com](https://tyler-marks.onrender.com/))
+- LinkedIn: ![Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tyler-marks-9b189987/))
+- Portfolio: ![Your Portfolio Website]([https://www.yourportfolio.com](https://tyler-marks.onrender.com/))
 - Email: tyleramarks@gmail.com
 
 🚀 **Skills and Technologies:**
