@@ -4,8 +4,8 @@ I am a full-stack software engineer with a passion for building web applications
 
 📫 **Reach Me:**
 
-- LinkedIn: ![Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tyler-marks-9b189987/))
-- Portfolio: ![Your Portfolio Website]([https://www.yourportfolio.com](https://tyler-marks.onrender.com/))
+- LinkedIn: ![Your LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tyler-marks-9b189987/)
+- Portfolio: ![Your Portfolio Website](https://www.yourportfolio.com](https://tyler-marks.onrender.com/)
 - Email: tyleramarks@gmail.com
 
 🚀 **Skills and Technologies:**
